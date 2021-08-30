@@ -1,4 +1,4 @@
-HomeworkName
+SimpleJsonWriter
 =================================================
 
 ![Points](../../blob/badges/points.svg)
